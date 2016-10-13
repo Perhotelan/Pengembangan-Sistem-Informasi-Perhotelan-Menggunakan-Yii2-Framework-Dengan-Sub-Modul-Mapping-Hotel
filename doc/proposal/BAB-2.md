@@ -2,7 +2,7 @@
 
 **LANDASAN TEORI**
 
-1. 1 Sistem Informasi**
+**2. 1 Sistem Informasi**
 
 Sistem Informasi  adalah kombinasi dari  [teknologi informasi](https://id.wikipedia.org/wiki/Teknologi_informasi) dan aktivitas orang yang menggunakan teknologi itu untuk mendukung operasi dan manajemen. Dalam arti yang sangat luas, istilah sistem informasi yang sering digunakan merujuk kepada interaksi antara orang, proses algoritmik, data, dan teknologi. Dalam pengertian ini, istilah ini digunakan untuk merujuk tidak hanya pada penggunaan organisasi  [teknologi informasi dan komunikasi](https://id.wikipedia.org/wiki/Teknologi_informasi_dan_komunikasi) (TIK), tetapi juga untuk cara di mana orang berinteraksi dengan teknologi ini dalam mendukung proses bisnis.
  
@@ -31,7 +31,7 @@ Aplikasi  adalah suatu subkelas perangkat lunak komputer yang memanfaatkan kemam
 Peta adalah  salah satu media atau alat bantu yang penting dalam studi geografi. Media penting lainnya yang biasa digunakan antara lain globe, foto udara, dan citra satelit.
 
 <p align="center">
-  <img src="../../img/peta.png" width="400px">
+  <img src="../../img/proposal/peta.PNG" width="400px">
 </p>
 
 Gambar 2.1 Peta
