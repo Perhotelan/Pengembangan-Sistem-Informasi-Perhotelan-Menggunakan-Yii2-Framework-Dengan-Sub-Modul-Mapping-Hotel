@@ -5,7 +5,7 @@
 1. 1 Sistem Informasi**
 
 Sistem Informasi  adalah kombinasi dari  [teknologi informasi](https://id.wikipedia.org/wiki/Teknologi_informasi) dan aktivitas orang yang menggunakan teknologi itu untuk mendukung operasi dan manajemen. Dalam arti yang sangat luas, istilah sistem informasi yang sering digunakan merujuk kepada interaksi antara orang, proses algoritmik, data, dan teknologi. Dalam pengertian ini, istilah ini digunakan untuk merujuk tidak hanya pada penggunaan organisasi  [teknologi informasi dan komunikasi](https://id.wikipedia.org/wiki/Teknologi_informasi_dan_komunikasi) (TIK), tetapi juga untuk cara di mana orang berinteraksi dengan teknologi ini dalam mendukung proses bisnis.
-
+ 
 **Sistem**
 
 Sistem merupakan kumpulan dari sub-sub sistem, elemen-elemen, prosedur-prosedur yang saling berinteraksi, berintegrasi untuk mencapai tujuan tertentu seperti informasi, target, dan tujuan lainnya
