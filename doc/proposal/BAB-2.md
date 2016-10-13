@@ -31,7 +31,7 @@ Aplikasi  adalah suatu subkelas perangkat lunak komputer yang memanfaatkan kemam
 Peta adalah  salah satu media atau alat bantu yang penting dalam studi geografi. Media penting lainnya yang biasa digunakan antara lain globe, foto udara, dan citra satelit.
 
 <p align="center">
-  <img src="../../img/proposal/peta.png" width="400px">
+  <img src="../../img/proposal/peta.PNG" width="400px">
 </p>
 
 Gambar 2.1 Peta
