@@ -57,53 +57,31 @@ OOP (Object Oriented Programming) adalah suatu metode pemrograman yang berorient
 **2.5.1 Kelas Abstrak**
 <p align="justify">
 1. Kelas merupakan deskripsi abstrak informasi dan tingkah laku dari sekumpulan data.
-</p>
-<p align="justify">
 2. Kelas dapat diilustrasikan sebagai suatu cetak biru(blueprint) atau prototipe yang digunakan untuk menciptakan objek.
-</P>
-<p align="justify">
 3. Kelas merupakan tipe data bagi objek yang mengenkapsulasi data dan operasi pada data dalam suatu unit tunggal.
-</P>
-<p align="justify">
 4. Kelas mendefinisikan suatu struktur yang terdiri atas data kelas (data field), prosedur atau fungsi (method), dan sifat kelas (property).
 </p>
 
 **2.5.2 Enkapsulasi**
 <p align="justify">
 1. Istilah enkapsulasi sebenarnya adalah kombinasi data dan fungsionalitas dalam sebuah unit tunggal sebagai bentuk untuk menyembunyikan detail informasi.
-</p>
-<p align="justify">
 2. Proses enkapsulasi memudahkan kita untuk menggunakan sebuah objek dari suatu kelas karena kita tidak perlu mengetahui segala hal secara rinci.
-</p>
-<p align="justify">
 3. Enkapsulasi menekankan pada antarmuka suatu kelas, atau dengan kata lain bagaimana menggunakan objek kelas tertentu.
-</p>
-<p align="justify">
 4. Contoh: kelas mobil menyediakan antarmuka fungsi untuk menjalankan mobil tersebut, tanpa kita perlu tahu komposisi bahan bakar, udara dan kalor yang diperlukan untuk proses tersebut.
 </p>
 
 **2.5.3 Pewarisan**
 <p align="justify">
 1. Kita dapat mendefinisikan suatu kelas baru dengan mewarisi sifat dari kelas lain yang sudah ada.
-</P>
-<p align="justify">
 2. Penurunan sifat ini bisa dilakukan secara bertingkattingkat, sehingga semakin ke bawah kelas tersebut menjadi semakin spesifik.
-</p>
-<p align="justify">
 3. Sub kelas memungkinkan kita untuk melakukan spesifikasi detail dan perilaku khusus dari kelas supernya.
-</p>
-<p align="justify">
 4. Dengan konsep pewarisan, seorang programmer dapat menggunakan kode yang telah ditulisnya pada kelas super berulang kali pada kelas-kelas turunannya tanpa harus menulis ulang semua kodekode itu.
 </p>
 
 **2.5.4 Polimorfisme**
 <p align="justify">
 1. Polimorfisme merupakan kemampuan objekobjek yang berbeda kelas namun terkait dalam pewarisan untuk merespon secara berbeda terhadap suatu pesan yang sama.
-</p>
-<p align="justify">
 2. Polimorfisme juga dapat dikatakan kemampuan sebuah objek untuk memutuskan method mana yang akan diterapkan padanya, tergantung letak objek tersebut pada jenjang pewarisan.
-</p>
-<p align="justify">
 3. Method overriding.
 </P>
 
@@ -114,14 +92,9 @@ Unified Modeling Language merupakan salah satu alat bantu yang dapat digunakan d
 ## 2.6.1 UML
 <p align="justify">
 1. Unified Modeling Language merupakan metode pengembangan perangkat lunak (sistem informasi) dengan menggunakan metode grafis serta merupakan bahasa untuk visualisasi, spesifikasi, konstruksi serta dokumentasi.
-</p>
-<p align="justify">
 2. Unified Modeling Language (UML) adalah bahasa yang telah menjadi standard untuk visualisasi, menetapkan, membangun dan mendokumentasikan arti suatu sistem perangkat lunak.
-</p>
-<p align="justify">
 3. Unified Modeling Language (UML) dapat didefinisikan sebagai sebuah bahasa yang telah menjadi standar dalam industri untuk visualisasi, merancang dan mendokumentasikan sistem perangkat lunak.
-</p>
-<p align="justify">        
+<p align="justify">       
 Unified Modeling Language (UML) merupakan standard modeling language yang terdiri dari kumpulan-kumpulan diagram, dikembangkan untuk membantu para pengembang sistem dan software agar bisa menyelesaikan tugas-tugas seperti Spesifikasi, Visualisasi, Desain arsitektur, Konstruksi, Simulasi, testing, Dokumentasi.[Nugroho8]
 </p>
 <p align="justify">
@@ -133,7 +106,7 @@ Berdasarkan beberapa pendapat yang dikemukakan diatas dapat ditarik kesimpulan b
 <p align="justify">
 Adapun langkah-langkah penggunaan Unified Modeling Language (UML). [Nugroho8] diantaranya sebagai berikut :
 </p>
-<p align="justify">
+
   1. Buatlah daftar business process dari level tertinggi untuk mendefinisikan aktivitas dan proses yang mungkin muncul.
   2. Petakan use case untuk setiap business process untuk mendefinisikan dengan tepat fungsional yang harus disediakan oleh sistem, kemudian perhalus use casediagram dan lengkapi dengan requirement, constraints dan catatan-catatan lain.
   3. Buatlah deployment diagram secara kasar untuk mendefinisikan arsitektur fisik sistem.
@@ -145,11 +118,9 @@ Adapun langkah-langkah penggunaan Unified Modeling Language (UML). [Nugroho8] di
   9. Setelah class diagram dibuat, kita dapat melihat kemungkinan pengelompokkan class menjadi komponen-komponen karena itu buatlah component diagram pada tahap ini. Selain itu, definisikan test integrasi setiap komponen untuk meyakinkan ia dapat bereaksi dengan baik.
   10. Perhalus deployment diagram yang sudah dibuat. Detailkan kemampuan dan       requirement piranti lunak, sistem operasi, jaringan dan sebagainya. Petakan komponen ke dalam
   11. Mulailah membangun sistem. Ada dua pendekatan yang tepat digunakan yang pertama Pendekatan use case dengan mengassign setiap use case kepada tim pengembang tertentu untuk mengembangkan unit kode yang lengkap dengan test yang kedua Pendekatan komponen yaitu mengassign setiap komponen kepada tim pengembang tertentu.
-</p>
+
 <p align="justify">
-1. Lakukan **uji modul dan uji integrasi** serta perbaiki model beserta codenya. Model harus selalu sesuai dengan code yang aktual.
-</p>
-<p align="justify">
+1. Lakukan uji modul dan uji integrasi serta perbaiki model beserta codenya. Model harus selalu sesuai dengan code yang aktual.
 2. Perangkat lunak siap dirilis.
 </p>
 
@@ -168,8 +139,6 @@ Pemetaan (mapping) Unified Modeling Language (UML) bersifat dua arah yaitu :
 </p>
 <p align="justify">
 1. Generasi  kode bahasa pemprograman tertentu dari Unified Modeling Language (UML) forward engineering.
-</p>
-<p align="justify">
 2. Generasi kode belum sesuai dengan kebutuhan dan harapan pengguna, pengembang dapat melakukan langkah balik bersifat iterative dari implementasi ke Unified Modeling Language (UML) hingga didapat sistem/peranti lunak yang sesuai dengan harapan pengguna dan pengembang.
 </p>
 **1. 7 Data Dictionary** **(DD) atau Kamus Data**
@@ -254,7 +223,7 @@ Pemisah antar instruksi adalah tanda titik koma (;) dan untuk membuat atau menam
 Adapun fungsi PHP untuk mengakses MySQL yang biasa digunakan diantaranya adalah:
 </p>
 <p align="justify">
-1. mysql\_connect()
+a. mysql\_connect()
 </p>
 <p align="justify">
 Fungsi mysql\_connect adalah untuk menghubungkan PHP dengan database MySQL. Format fungsinya adalah:
@@ -263,7 +232,7 @@ Fungsi mysql\_connect adalah untuk menghubungkan PHP dengan database MySQL. Form
 mysql\_connect(string hostname, string username, string password);
 </p>
 <p align="justify">
-1. mysql\_select\_db
+b. mysql\_select\_db
 </P>
 <p align="justify">
 Setelah terhubung ke database MySQL dengan menggunakan mysql\_connect, langkah selanjutnya adalah memilih database yang akan digunakan. Fungsi mysql\_connect\_db digunakan untuk memilih database Format fungsinya adalah:
@@ -272,7 +241,7 @@ Setelah terhubung ke database MySQL dengan menggunakan mysql\_connect, langkah s
 mysql\_select\_db(string databases, koneksi);
 </P>
 <p align="justify">
-1. mysql\_query
+c. mysql\_query
 </P>
 <p align="justify">
 Dalam database MySQL, perintah untuk melakukan trnasaksi ialah perintahSQL.Sebutan untuk mengirim perintah SQL dinamakan _query_. _Query_memberi perintah kepada database untuk melakukan apa yang dikehendaki. Format fungsinya adalah:
@@ -281,7 +250,7 @@ Dalam database MySQL, perintah untuk melakukan trnasaksi ialah perintahSQL.Sebut
 int mysql\_query(string query, int[link\_identifier]);
 </p>
 <p align="justify">
-1. mysql\_num\_rows
+d. mysql\_num\_rows
 </P>
 <p align="justify">
 Kegunaan dari fungsi ini adalah untuk menghitung jumlah baris yang dikenaioleh proses SQL. Format penulisannya adalah:
@@ -290,7 +259,7 @@ Kegunaan dari fungsi ini adalah untuk menghitung jumlah baris yang dikenaioleh p
 int mysql\_num\_rows(int result);
 </p>
 <p align="justify">
-1. mysql\_fetch\_array
+e. mysql\_fetch\_array
 </p>
 <p align="justify">
 Fungsi ini digunakan untuk menampilkan data. Dalam fungsi ini, hasil query ditampung dalam bentuk array. Format fungsinya adalah:
@@ -402,20 +371,20 @@ _Gambar 2.1 SDLC_
 <p align="justify">
 Mengidentifikasi sistem informasi apa yang akan dikembangkan, sasaran yang ingin dicapai, jangka waktu pelaksanaan, serta mempertimbangkan dana yang tersedia dan siapa yang melaksanakannya
 </p>
-1. Tahap Analisis
+2. Tahap Analisis
 <p align="justify">
 Melakukan survey dan menilai kelayakan proyek pengembangan sistem informasi, Mempelajari dan menganalisis sistem informasi yang sedang berjalan, Menentukan permintaan pemakai sistem informasi, Memilih sistem solusi dan pemecahan masalah yang paling baik, Menentukan perangkat keras (_Hardware_) dan perangkat lunak (_Software_)
 </p>
-1. Tahap Desain
+3. Tahap Desain
 <p align="justify">
 Merancang sistem informasi baru
 </p>
-1. Tahap Implementasi
+4. Tahap Implementasi
 <p align="justify">
 Membangun sistem informasi baru
 </p>
-1. Tahap Mengkomunikasikan dan Mengimplementasikan Sistem Informasi Baru
-2. Tahap Maintance
+5. Tahap Mengkomunikasikan dan Mengimplementasikan Sistem Informasi Baru
+6. Tahap Maintance
 <p align="justify">
 Memelihara dan melakukan perbaikan atau peningkatan sistem informasi baru bila diperlukan
 </p>
