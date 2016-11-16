@@ -10,21 +10,20 @@ Hotel adalah suatu bentuk bangunan, lambang, perusahaan atau badan usaha akomoda
 <p align="justify">
 Pengertian hotel ini dapat disimpulkan dari beberapa definisi hotel tersebut dibawah ini:
 </p>
-<p align="justify">
+
 1. Salah satu jenis akomodasi yang mempergunakan sebagian atau keseluruhan bagian untuk jasa pelayanan penginapan, penyedia makanan dan minuman serta jasa lainnya bagi masyarakat umum yang dikelola secara komersil.
-</p>
-<p align="justify">
+
 2. Bangunan yang dikelola secara komersil dengan memberikan fasilitas penginapan untuk masyarakat umum dengan fasilitas sebagai berikut :
-</p>
-<p align="justify">
+
+
 1. 1)Jasa Penginapan
 2. 2)Pelayanan makanan dan minuman
 3. 3)Pelayanan barang bawaan
 4. 4)Pencucian pakaian
 5. 5)Penggunaan fasilitas perabot dan hiasan – hiasan yang ada di dalamnya.
-</p>
+
 <p align="justify">
-1. Sarana tempat tinggal umum untuk wisatawan dengan memberikan pelayanan jasa kamar, penyedia makanan dan minuman serta akomodasi dengan syarat pembayaran.
+Sarana tempat tinggal umum untuk wisatawan dengan memberikan pelayanan jasa kamar, penyedia makanan dan minuman serta akomodasi dengan syarat pembayaran.
 </P>
 
 **1. 2 Pelayanan**
@@ -55,46 +54,47 @@ _Website_ dapat memberikan sumberinformasi tertentu bagi para pengguna untuk men
 OOP (Object Oriented Programming) adalah suatu metode pemrograman yang berorientasi kepada objek. Tujuan dari OOP diciptakan adalah untuk mempermudah pengembangan program dengan cara mengikuti model yang telah ada di kehidupan sehari-hari.[Sakur6]
 
 **2.5.1 Kelas Abstrak**
-<p align="justify">
+
 1. Kelas merupakan deskripsi abstrak informasi dan tingkah laku dari sekumpulan data.
 2. Kelas dapat diilustrasikan sebagai suatu cetak biru(blueprint) atau prototipe yang digunakan untuk menciptakan objek.
 3. Kelas merupakan tipe data bagi objek yang mengenkapsulasi data dan operasi pada data dalam suatu unit tunggal.
 4. Kelas mendefinisikan suatu struktur yang terdiri atas data kelas (data field), prosedur atau fungsi (method), dan sifat kelas (property).
-</p>
+
 
 **2.5.2 Enkapsulasi**
-<p align="justify">
+
 1. Istilah enkapsulasi sebenarnya adalah kombinasi data dan fungsionalitas dalam sebuah unit tunggal sebagai bentuk untuk menyembunyikan detail informasi.
 2. Proses enkapsulasi memudahkan kita untuk menggunakan sebuah objek dari suatu kelas karena kita tidak perlu mengetahui segala hal secara rinci.
 3. Enkapsulasi menekankan pada antarmuka suatu kelas, atau dengan kata lain bagaimana menggunakan objek kelas tertentu.
 4. Contoh: kelas mobil menyediakan antarmuka fungsi untuk menjalankan mobil tersebut, tanpa kita perlu tahu komposisi bahan bakar, udara dan kalor yang diperlukan untuk proses tersebut.
-</p>
+
 
 **2.5.3 Pewarisan**
-<p align="justify">
+
 1. Kita dapat mendefinisikan suatu kelas baru dengan mewarisi sifat dari kelas lain yang sudah ada.
 2. Penurunan sifat ini bisa dilakukan secara bertingkattingkat, sehingga semakin ke bawah kelas tersebut menjadi semakin spesifik.
 3. Sub kelas memungkinkan kita untuk melakukan spesifikasi detail dan perilaku khusus dari kelas supernya.
 4. Dengan konsep pewarisan, seorang programmer dapat menggunakan kode yang telah ditulisnya pada kelas super berulang kali pada kelas-kelas turunannya tanpa harus menulis ulang semua kodekode itu.
-</p>
+
 
 **2.5.4 Polimorfisme**
-<p align="justify">
+
 1. Polimorfisme merupakan kemampuan objekobjek yang berbeda kelas namun terkait dalam pewarisan untuk merespon secara berbeda terhadap suatu pesan yang sama.
 2. Polimorfisme juga dapat dikatakan kemampuan sebuah objek untuk memutuskan method mana yang akan diterapkan padanya, tergantung letak objek tersebut pada jenjang pewarisan.
 3. Method overriding.
-</P>
+
 
 **1. 6 Unified Modeling Language** **(UML)**
 <p align="justify">
 Unified Modeling Language merupakan salah satu alat bantu yang dapat digunakan dalam bahasa pemrograman yang berorientasi objek, saat ini UML akan mulai menjadi standar masa depan bagi industri pengembangan sistem/perangkat lunak yang berorientasi objek sebab pada dasarnya UML digunakan oleh banyak perusahaan raksasa seperti IBM, Microsoft, dan sebagainya. [Nugroho8]
 </P>
 ## 2.6.1 UML
-<p align="justify">
+
 1. Unified Modeling Language merupakan metode pengembangan perangkat lunak (sistem informasi) dengan menggunakan metode grafis serta merupakan bahasa untuk visualisasi, spesifikasi, konstruksi serta dokumentasi.
 2. Unified Modeling Language (UML) adalah bahasa yang telah menjadi standard untuk visualisasi, menetapkan, membangun dan mendokumentasikan arti suatu sistem perangkat lunak.
 3. Unified Modeling Language (UML) dapat didefinisikan sebagai sebuah bahasa yang telah menjadi standar dalam industri untuk visualisasi, merancang dan mendokumentasikan sistem perangkat lunak.
-<p align="justify">       
+
+<p align="justify">     
 Unified Modeling Language (UML) merupakan standard modeling language yang terdiri dari kumpulan-kumpulan diagram, dikembangkan untuk membantu para pengembang sistem dan software agar bisa menyelesaikan tugas-tugas seperti Spesifikasi, Visualisasi, Desain arsitektur, Konstruksi, Simulasi, testing, Dokumentasi.[Nugroho8]
 </p>
 <p align="justify">
@@ -119,10 +119,10 @@ Adapun langkah-langkah penggunaan Unified Modeling Language (UML). [Nugroho8] di
   10. Perhalus deployment diagram yang sudah dibuat. Detailkan kemampuan dan       requirement piranti lunak, sistem operasi, jaringan dan sebagainya. Petakan komponen ke dalam
   11. Mulailah membangun sistem. Ada dua pendekatan yang tepat digunakan yang pertama Pendekatan use case dengan mengassign setiap use case kepada tim pengembang tertentu untuk mengembangkan unit kode yang lengkap dengan test yang kedua Pendekatan komponen yaitu mengassign setiap komponen kepada tim pengembang tertentu.
 
-<p align="justify">
+
 1. Lakukan uji modul dan uji integrasi serta perbaiki model beserta codenya. Model harus selalu sesuai dengan code yang aktual.
 2. Perangkat lunak siap dirilis.
-</p>
+
 
 ## 2.6.3 Ruang Lingkup UML
 <p align="justify">
@@ -137,10 +137,10 @@ Dalam hal ini, Unified Modeling Language (UML) bukanlah merupakan bahasa pemprog
 <p align="justify">
 Pemetaan (mapping) Unified Modeling Language (UML) bersifat dua arah yaitu :
 </p>
-<p align="justify">
+
 1. Generasi  kode bahasa pemprograman tertentu dari Unified Modeling Language (UML) forward engineering.
 2. Generasi kode belum sesuai dengan kebutuhan dan harapan pengguna, pengembang dapat melakukan langkah balik bersifat iterative dari implementasi ke Unified Modeling Language (UML) hingga didapat sistem/peranti lunak yang sesuai dengan harapan pengguna dan pengembang.
-</p>
+
 **1. 7 Data Dictionary** **(DD) atau Kamus Data**
 
 **2.7.1 Kamus Data**
@@ -154,17 +154,17 @@ Kamus data ini sangat membantu analis sistem dalam mendefinisikan data yang meng
 <p align="justify">
 Nama arus data, KD (kamus data) dibuat berdasarkan arus data yang mengalir alias kalau ada (karena data yang sama mempunyai nama yang beda untuk setiap orang/departemen satu dengan yang lainnya.[Maynard5] Bentuk data (arus data dapat mengalir) sebagai berikut :
 </p>
-<p align="justify">
+
 1. Dari satuan luar ke proses, biasanya tercatat si suatu dokumen atau formulir
 2. Hasil dari proses ke satuan luar, dapat berupa laporan atau query tampilan layar
 3. Hasil suatu proses ke proses lain, biasanya dalam bentuk variabel atau parameter yang dibutuhkan oleh proses penerimanya
 4. Hasil dari proses yang direkam ke simpanan data, data yang mengalir biasanya berbentuk variabel
 5. Dari simpanan data dibaca oleh suatu proses, data yang mengalir ini berupa file atau item data
-</p>
+
 <p align="justify">
 Dengan demikian bentuk dari data yang mengalir ini berupa :
 </p>
-<p align="justify">
+
 1. Dokumen dasar atau formulir
 2. Dokumen hasil cetakan komputer
 3. Laporan tercetak
@@ -172,7 +172,7 @@ Dengan demikian bentuk dari data yang mengalir ini berupa :
 5. Variabel
 6. Parameter
 7. Field
-</p>
+
 <p align="justify">
  Struktur data, struktur data menunjukkan arus data yang dicatat di DD terdiri dari item – item apa saja.
 </p>
@@ -271,19 +271,12 @@ Array mysql\_fetch\_array(int result, int [result\_type]);.[Kadir3]
 <p align="justify">
 Hypertext Markup Language merupakan standard bahasa yang digunakan untuk menampilkan document web, yang bisa dilakukan dengan HTML yaitu:
 </p>
-<p align="justify">
+
 1. Mengontrol tampilan dari web page dan contentnya.
 2. Mempublikasikan document secara online sehingga bisa di akses dari seluruh dunia.
-</p>
-<p align="justify">
-1. Membuat online form yang bisa di gunakan untuk menangani pendaftaran,
-</p>
-<p align="justify">
-transaksi secara online.
-</p>
-<p align="justify">
-1. Menambahkan objectobject seperti image, audio, video dan juga java appletdalam document HTML.[Kadir3]
-</p>
+3. Membuat online form yang bisa di gunakan untuk menangani pendaftaran, transaksi secara online.
+4. Menambahkan objectobject seperti image, audio, video dan juga java appletdalam document HTML.[Kadir3]
+
 **2.10.1 Struktur Dasar HTML**
 <p align="justify">
 HTML terdiri dari beberapa bagian yang fungsinya sebagai penanda suatu kelompokperintah tertentu, misalnya kelompok perintah _form_ yang ditandai dengan kode&lt;form&gt;, judul dengan &lt;title&gt; dan sebagainya.[Kadir3] Untuk lebih lanjut mengenai bagian - bagian HTML perhatikan skema dibawah ini :
@@ -306,24 +299,24 @@ HTML terdiri dari beberapa bagian yang fungsinya sebagai penanda suatu kelompokp
 &lt;/html&gt;
 
 Keterangan :
-<p align="justify">
+
 1. Dokumen HTML selalu diawali dengan tand _tag_ pembuka &lt;html&gt; dan diakhiri dengan tanda _tag_ penutup &lt;/html&gt;.
 
 2. Pada elemen head &lt;head&gt;&lt;/head&gt;, dapat kita sisipkan kode untuk menuliskan keterangan tentang dokumen HTML. Atau dapat juga kita sisipkan _scripts_ pemrograman _web_ seperti Javascript, VBscript atau CSS untuk menambah daya tarik pada situs yang kita buat agar lebih menarik dan dinamis.
 
 3. Elemen-elemen &lt;body&gt;&lt;/body&gt; berisi tag-tag untuk isi atau layout tampilan situs kita, seperti : &lt;font&gt;&lt;/font&gt;, &lt;table&gt;&lt;/table&gt;, &lt;form&gt;&lt;/form&gt;. Jadi jelas bahwa elemen adalah suatu bagian yang besar yang terdiri dari kodekode_tag_ tersebut. Sedangkan _tag_ hanyalah merupakan bagian dari elemen._Tag_ adalahkode-kode yang digunakan untuk mengatur dokumen HTML. Secara garis besarbentuk umum _tag_ adalah sebagai berikut : &lt;tag-awal&gt;TEKS&lt;tag-akhir&gt;. Namun adajuga _tag_ yang tidak perlu ada _tag_ penutup seperti &lt;br&gt;, &lt;hr&gt;, &lt;img&gt; dan lain-lain.[Kadir3]
-</p>
+
 **1. 11 Yii Framework**
 <p align="justify">
 Yii Framework merupakan salah satu dari sekian banyak PHP framework yang bersifat open-source, Yii juga merupakan framework (kerangka kerja) PHP berbasis komponen, berkinerja tinggi dan digunakan untuk pengembangan aplikasi web berskala besar.[Sharive7] Keunggulan Yii framework :
 </p>
-<p align="justify">
+
 1. Open Source
 2. Menggunakan Konsep MVC (Model, View, Controller)
 3. Mendukung Ajax
 4. Fungsi yang otomatis
 5. Terhubung dengan Jquery
-</p>
+
 **1. 12 Xampp**
 <p align="justify">
 XAMPP adalah perangkat lunak bebas, yang mendukung banyak sistem operasi, merupakan kompilasi dari beberapa program. Fungsinya adalah sebagai server yang berdiri sendiri _(localhost)_, yang terdiri atas program Apache HTTP Server, MySQL database, dan penerjemah bahasa yang ditulis dengan bahasa pemrograman PHP dan Perl. Nama XAMPP merupakan singkatan dari X (empat sistem operasi apapun), Apache, MySQL, PHP dan Perl.Program ini tersedia dalam GNU _General Public License_ dan bebas, merupakan web server yang mudah digunakan yang dapat melayani tampilan halaman web yang dinamis. Untuk mendapatkanya dapat mendownload langsung dari web resminya.[Kadir3]
@@ -339,10 +332,10 @@ Pengujian software adalah elemen kritis dari jaminan kualitas software dan merup
 <p align="justify">
 Pada saat pengujian, _engineer_ membuat serangkaian kasus uji yang bertujuan untuk &quot; merusak &quot; software yang telah dibuat. Untuk setipa produk rekayasa perangkat lunak bisa diuji dengan 2 cara yaitu :
 </p>
-<p align="justify">
+
   1. Untuk mengetahui fungsinya dilakukan dengan mendemonstrasikan fungsi tersebut bisa berjalan sempurna atau ada eror (_Black box testing_)
   2. Mengetahui cara kerja internal dari produk _(White box testing)_
-</p>
+
 
 
 **2.14.1 Pengujian Black Box**
