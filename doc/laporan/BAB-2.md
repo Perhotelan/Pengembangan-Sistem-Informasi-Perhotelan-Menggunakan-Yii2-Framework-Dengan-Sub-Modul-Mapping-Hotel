@@ -16,11 +16,11 @@ Pengertian hotel ini dapat disimpulkan dari beberapa definisi hotel tersebut dib
 2. Bangunan yang dikelola secara komersil dengan memberikan fasilitas penginapan untuk masyarakat umum dengan fasilitas sebagai berikut :
 
 
-1. 1)Jasa Penginapan
-2. 2)Pelayanan makanan dan minuman
-3. 3)Pelayanan barang bawaan
-4. 4)Pencucian pakaian
-5. 5)Penggunaan fasilitas perabot dan hiasan – hiasan yang ada di dalamnya.
+ 1)Jasa Penginapan
+ 2)Pelayanan makanan dan minuman
+ 3)Pelayanan barang bawaan
+ 4)Pencucian pakaian
+ 5)Penggunaan fasilitas perabot dan hiasan – hiasan yang ada di dalamnya.
 
 <p align="justify">
 Sarana tempat tinggal umum untuk wisatawan dengan memberikan pelayanan jasa kamar, penyedia makanan dan minuman serta akomodasi dengan syarat pembayaran.
@@ -209,12 +209,12 @@ PHP merupakan script untuk pemrograman script web, server-site, script yang memb
 <p align="justify">
 Kode PHP diawali dengan tanda lebih kecil (&lt;) dan diakhiri dengan tanda lebih besar (&gt;). Ada beberapa cara untuk menuliskan skrip PHP yaitu:
 </p>
-<p align="justify">
+
 1. &lt;? Echo (&quot;coba satu ini&quot;); ?&gt;
 2. &lt;?php echo(&quot;coba juga ini&quot;); ?&gt;
 3. &lt;script language+&quot;php&quot;&gt;echo(&quot;Kalau ini?&quot;); &lt;/script&gt;
 4. &lt;%echo(&quot;mencoba last php&quot;); %&gt;
-</p>
+
 <p align="justify">
 Pemisah antar instruksi adalah tanda titik koma (;) dan untuk membuat atau menambahkan komentar. Untuk menuliskan skrip PHP ada dua cara yang sering digunakan yaitu _Embedded Script_ dan _Non-Embedded Script_.[Kadir3]
 </p>
