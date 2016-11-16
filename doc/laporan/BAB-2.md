@@ -15,13 +15,13 @@ Pengertian hotel ini dapat disimpulkan dari beberapa definisi hotel tersebut dib
 
 2. Bangunan yang dikelola secara komersil dengan memberikan fasilitas penginapan untuk masyarakat umum dengan fasilitas sebagai berikut :
 
-
+<p align="justify">
  1).Jasa Penginapan
  2).Pelayanan makanan dan minuman
  3).Pelayanan barang bawaan
  4).Pencucian pakaian
  5).Penggunaan fasilitas perabot dan hiasan – hiasan yang ada di dalamnya.
-
+</p>
 <p align="justify">
 Sarana tempat tinggal umum untuk wisatawan dengan memberikan pelayanan jasa kamar, penyedia makanan dan minuman serta akomodasi dengan syarat pembayaran.
 </P>
