@@ -14,8 +14,9 @@ Pengertian hotel ini dapat disimpulkan dari beberapa definisi hotel tersebut dib
 1. Salah satu jenis akomodasi yang mempergunakan sebagian atau keseluruhan bagian untuk jasa pelayanan penginapan, penyedia makanan dan minuman serta jasa lainnya bagi masyarakat umum yang dikelola secara komersil.
 
 2. Bangunan yang dikelola secara komersil dengan memberikan fasilitas penginapan untuk masyarakat umum dengan fasilitas sebagai berikut :
-
+<p>
 1).Jasa Penginapan
+</p>
 2).Pelayanan makanan dan minuman
 3).Pelayanan barang bawaan
 4).Pencucian pakaian
@@ -354,6 +355,9 @@ Pengujian black box berfokus pada persyaratan fungsional PL. Pengujian ini memun
 
 **2.15.1** **Metode SDLC (****System Development Life Cycle****)**
 
+<p align="center">
+  <img src="../../img/laporan/sldc.jpg" width="400px">
+</p>
  
 _Gambar 2.1 SDLC_
 
